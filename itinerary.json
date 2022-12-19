@@ -1,0 +1,87 @@
+{
+    "data": [
+        [
+            {
+                "activity": "Vuelo (1.5h) \n(No incluido, lo podemos organizar por ti)"
+            },
+            {
+                "activity": "Llegada a Pto. Inírida"
+            },
+            {
+                "title": "Los Cerros Sagrados",
+                "subtitle": "Travesía en lancha (2h) desde Puerto Inírida",
+                "activity": "Visita a los Cerros de Mavicure, Pajarito y Mono \n\nVisita a las comunidades del Remanso y Venado"
+            },
+            {
+                "activity": "Almuerzo en Comunidad Indigena"
+            },
+            {
+                "title": "Cerro Diablo",
+                "activity": "Caminata y escalada al atardecer"
+            },
+            {
+                "activity": "Alojamiento y cena en cabañas indígenas"
+            }
+        ],
+        [
+            {
+                "title": "Ascenso al Cerro Mavicure",
+                "activity": "Para deleitarse con los paisajes del escudo guayanés"
+            },
+            {
+                "title": "Caño San Joaquín",
+                "activity": "El “oasis del Guainía”, te estremecerá con sus aguas color naranja"
+            },
+            {
+                "activity": "Almuerzo en Comunidad Indigena"
+            },
+            {
+                "activity": "Desplazamiento a la comunidad La Ceiba"
+            },
+            {
+                "title": "Ictiofauna Nocturna",
+                "subtitle": "def. Ictiofauna: Conjunto de peces de una zona acuática acotada",
+                "activity": "Travesía en canoa por el Caño Pajarito para conocer los peces de la región"
+            },
+            {
+                "activity": "Alojamiento y cena en cabañas indígenas"
+            }
+        ],
+        [
+            {
+                "title": "Comunidad la Ceiba",
+                "activity": "Conocerás sus iniciativas productivas sostenibles como la Ruta de la Miel"
+            },
+            {
+                "title": "Actividad Verde",
+                "subtitle": "Ruta de la Miel",
+                "activity": "Conoce la iniciativa de producción de miel orgánica que ayuda a reforestar la Orinoquía"
+            },
+            {
+                "title": "El gran Río Orinoco y la Estrella Fluvial",
+                "activity": "Visita a la Estrella Fluvial donde convergen los Ríos Guaviare, Atabapo e Inírida originando el gran Río Orinoco"
+            },
+            {
+                "activity": "Almuerzo en Reserva Natural"
+            },
+            {
+                "title": "¡A nadar!",
+                "subtitle": "Baño en las aguas del Río Atabapo en la piedra de Maviso",
+                "activity": "Río Atabapo"
+            },
+            {
+                "title": "Dosel/ Canopy",
+                "subtitle": "Atravesando el nororiente amazónico por las copas de los árboles.",
+                "activity": "Reserva Natural Morú"
+            },
+            {
+                "activity": "Alojamiento y cena en Reserva Natural Morú"
+            }
+        ],
+        [
+            {
+                "activity": "Desplazamiento a Puerto Inírida y aeropuerto"
+            }
+        ]
+    ]
+}
